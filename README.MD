@@ -2,7 +2,8 @@
 
 Updated according to all requirements
 
-Usage is the same as below only if using symfony on http better to use command: symfony serve --no-tls
+Clone repository as: git clone https://github.com/Owned-by-MR/synchtankmrtest.git
+Usage is the same as below only if using symfony on http better to use command: symfony serve --no-tls and changing .env
 
 # Symfony + Vue.js Coding Test: Track Management Mini App
 
